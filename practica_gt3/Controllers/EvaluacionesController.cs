@@ -10,7 +10,7 @@ using practica_gt3.Models;
 
 namespace practica_gt3.Controllers
 {
-    [Authorize(Roles = "profesores")]
+    [Authorize(Roles = "profesor")]
     public class EvaluacionesController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
