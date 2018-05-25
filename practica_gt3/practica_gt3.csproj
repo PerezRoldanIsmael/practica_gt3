@@ -197,6 +197,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AsignacionDocentesController.cs" />
     <Compile Include="Controllers\CursosController.cs" />
     <Compile Include="Controllers\GrupoClasesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -216,8 +217,13 @@
     <Compile Include="Migrations\201805251255149_CreateGrupoClases.Designer.cs">
       <DependentUpon>201805251255149_CreateGrupoClases.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201805251315087_CreateAsignacionDocentes.cs" />
+    <Compile Include="Migrations\201805251315087_CreateAsignacionDocentes.Designer.cs">
+      <DependentUpon>201805251315087_CreateAsignacionDocentes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\AsignacionDocentes.cs" />
     <Compile Include="Models\Cursos.cs" />
     <Compile Include="Models\GrupoClases.cs" />
     <Compile Include="Models\IdentityModels.cs" />
@@ -295,6 +301,11 @@
     <Content Include="Views\GrupoClases\Details.cshtml" />
     <Content Include="Views\GrupoClases\Edit.cshtml" />
     <Content Include="Views\GrupoClases\Index.cshtml" />
+    <Content Include="Views\AsignacionDocentes\Create.cshtml" />
+    <Content Include="Views\AsignacionDocentes\Delete.cshtml" />
+    <Content Include="Views\AsignacionDocentes\Details.cshtml" />
+    <Content Include="Views\AsignacionDocentes\Edit.cshtml" />
+    <Content Include="Views\AsignacionDocentes\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -316,6 +327,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201805251255149_CreateGrupoClases.resx">
       <DependentUpon>201805251255149_CreateGrupoClases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201805251315087_CreateAsignacionDocentes.resx">
+      <DependentUpon>201805251315087_CreateAsignacionDocentes.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

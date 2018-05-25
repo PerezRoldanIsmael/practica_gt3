@@ -206,3 +206,4 @@ C:\Users\j3rk\Desktop\practica_gt3\practica_gt3\obj\Debug\practica_gt3.Migration
 C:\Users\j3rk\Desktop\practica_gt3\practica_gt3\obj\Debug\practica_gt3.csproj.GenerateResource.cache
 C:\Users\j3rk\Desktop\practica_gt3\practica_gt3\obj\Debug\practica_gt3.Migrations.CreateCursos.resources
 C:\Users\j3rk\Desktop\practica_gt3\practica_gt3\obj\Debug\practica_gt3.Migrations.CreateGrupoClases.resources
+C:\Users\j3rk\Desktop\practica_gt3\practica_gt3\obj\Debug\practica_gt3.Migrations.CreateAsignacionDocentes.resources
