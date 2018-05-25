@@ -207,3 +207,4 @@ C:\Users\j3rk\Desktop\practica_gt3\practica_gt3\obj\Debug\practica_gt3.csproj.Ge
 C:\Users\j3rk\Desktop\practica_gt3\practica_gt3\obj\Debug\practica_gt3.Migrations.CreateCursos.resources
 C:\Users\j3rk\Desktop\practica_gt3\practica_gt3\obj\Debug\practica_gt3.Migrations.CreateGrupoClases.resources
 C:\Users\j3rk\Desktop\practica_gt3\practica_gt3\obj\Debug\practica_gt3.Migrations.CreateAsignacionDocentes.resources
+C:\Users\j3rk\Desktop\practica_gt3\practica_gt3\obj\Debug\practica_gt3.Migrations.CreateMatriculas.resources
