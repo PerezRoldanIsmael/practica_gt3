@@ -34,5 +34,7 @@ namespace practica_gt3.Models
         }
 
         public System.Data.Entity.DbSet<practica_gt3.Models.Cursos> Cursos { get; set; }
+
+        public System.Data.Entity.DbSet<practica_gt3.Models.GrupoClases> GrupoClases { get; set; }
     }
 }
