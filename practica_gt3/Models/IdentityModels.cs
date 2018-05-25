@@ -32,5 +32,7 @@ namespace practica_gt3.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<practica_gt3.Models.Cursos> Cursos { get; set; }
     }
 }
